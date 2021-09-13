@@ -1,0 +1,6 @@
+terraform.run(
+  directory: "terraform/jenkins-service",
+  vars: [
+    "jenkins_container_image": env.DOCKER_IMAGE
+  ]
+)

@@ -1,0 +1,3 @@
+terraform.run(
+  directory: "terraform/jenkins-base-infrastructure"
+)

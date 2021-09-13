@@ -1,0 +1,1 @@
+buildContainer.run("kcdc-jenkins", "docker/jenkins")
